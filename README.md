@@ -18,15 +18,12 @@
 
 • 📫 How to reach me adarshvkapse@gmail.com
 
+### Connect with me:
+[<img width="30" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">](https://linkedin.com/in/Adarsh_Kapse)
 
-## Connect with me:
-[![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://linkedin.com/in/Adarsh_Kapse)
+### Languages and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
 
-# 💻 Languages and Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
