@@ -1,36 +1,122 @@
-<h1 align="center"> Hi 👋, I'm Adarsh </h1> 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adarsh%20Kapse&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Data+Science+%26+ML+Engineer+%F0%9F%A4%96;NLP+%7C+LLMs+%7C+Deep+Learning+%F0%9F%A7%A0;Samsung+R%26D+Project+Intern+%F0%9F%92%BC;Research+Published+%40+ICETCI+2026+%F0%9F%93%84;Building+AI+that+makes+data+accessible+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+</div>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9_225813708_98b745f2_7d22_48cf_9150_083f1b00d6c9_gif__1920_1080_](https://github.com/user-attachments/assets/4ea068f0-10eb-4a80-babf-fd45f55946a5)
 
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-• 🔭 I'm currently working on **C++ programming, and innovative projects that make an impact.**<br>
+## 🧠 About Me
 
-• 👯 I’m looking to collaborate on **machine learning projects, data analysis, and AI-driven applications.**<br>
+```python
+adarsh = {
+    "role"       : "Data Science & ML Engineer",
+    "education"  : "B.Tech CS (AI) @ KLE Technological University '27",
+    "experience" : "Project Intern @ Samsung R&D Institute India",
+    "research"   : "Published @ ICETCI 2026 — Stress Prediction using Wearables",
+    "focus"      : ["NLP", "LLMs", "ML Pipelines", "Healthcare AI", "Time-Series"],
+    "stack"      : ["Python", "DistilBERT", "CodeLlama", "FastAPI", "React", "MongoDB"],
+    "currently"  : "Building NL2SQL pipeline for enterprise databases @ Samsung PRISM",
+    "contact"    : "adarshvkapse@gmail.com"
+}
+```
 
-• 🤝 I’m looking for help with **exploring internships or research opportunities in tech and machine learning.**<br>
+---
 
-• 🌱 I’m currently enhancing my skills in **C, C++, JavaScript and Python and Learning more about design tools.**<br>
+## 🚀 What I'm Up To
 
-• 💬 Ask me about **software development, machine learning algorithms, or innovative project management.**<br>
+- 🔭 **NL2SQL Pipeline** @ Samsung R&D — converting plain English to enterprise SQL using DistilBERT + CodeLlama 7B with QLoRA fine-tuning
+- 🌱 Deepening expertise in **LLM fine-tuning**, **time-series forecasting**, and **MLOps**
+- 📄 Exploring **Healthcare AI** and **wearable biosensor** ML applications
+- 🎯 Open to **Data Science**, **ML Engineering**, and **AI Research** opportunities
 
-• ⚡ Fun fact: **I enjoy creating DIY projects and turning simple ideas into impactful prototypes!**<br>
+---
 
-• 📫 How to reach me adarshvkapse@gmail.com
+## 🛠️ Tech Stack
 
+**Languages**
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/adarsh kapse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh kapse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h_02fe23bci014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h_02fe23bci014" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adarsh_kapse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh_kapse" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adarshvkapse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshvkapse" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**ML / AI**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh162005&show_icons=true&locale=en&layout=compact" alt="adarsh162005" /></p>
+**Backend / Cloud / Tools**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| 🏷️ Project | 📝 Description | 🔧 Stack |
+|------------|----------------|----------|
+| 🧠 **NL2SQL Pipeline** *(Samsung PRISM — Private)* | Multi-stage pipeline converting plain English to SQL using DistilBERT + CodeLlama 7B with QLoRA | `DistilBERT` `QLoRA` `NLP` `Python` |
+| 💓 [**Stress Classification**](https://github.com/adarsh162005/stress-classification-e4-vs-h10) | Wearable biosensor ML study — published @ ICETCI 2026 | `XGBoost` `CatBoost` `LightGBM` `Python` |
+| 🌐 [**Network Digital Twin**](https://github.com/adarsh162005/network-digital-twin) | AI-powered network monitoring & future scenario forecasting platform | `FastAPI` `React` `MongoDB` `ML` |
+| 🏥 [**SmartMedCloud**](https://github.com/adarsh162005/SmartMedCloud) | Cloud-based AI healthcare assistant for disease prediction from symptoms | `ML` `Cloud` `HTML` |
+| 🤖 [**ADHD in Women**](https://github.com/adarsh162005/adhd_in_women) | ML-based analysis and prediction for ADHD patterns in women | `Python` `Jupyter` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh162005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh162005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarsh162005&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+```
+📄  Research Paper  →  "Insights into Stress Prediction Using Wearables: E4 vs. Polar H10" @ ICETCI 2026
+💼  Industry Intern →  Samsung R&D Institute India — NL2SQL for enterprise datasets (Samsung PRISM)
+🏅  Award          →  Excellence Award for Best Project @ KLE Technological University
+🎨  Leadership     →  Lead Graphic Designer @ KLE-CNEST & KLE CTIE (1.5+ years)
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+*I'm always open to interesting conversations about ML, AI research, and data-driven systems.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adarsh-kapse-9ba325281)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshvkapse@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
