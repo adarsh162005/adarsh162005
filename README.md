@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adarsh%20Kapse&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adarsh%20Kapse&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Data+Science+%26+ML+Engineer+%F0%9F%A4%96;NLP+%7C+LLMs+%7C+Deep+Learning+%F0%9F%A7%A0;Samsung+R%26D+Project+Intern+%F0%9F%92%BC;Research+Published+%40+ICETCI+2026+%F0%9F%93%84;Building+AI+that+makes+data+accessible+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -10,18 +10,16 @@
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9_225813708_98b745f2_7d22_48cf_9150_083f1b00d6c9_gif__1920_1080_](https://github.com/user-attachments/assets/4ea068f0-10eb-4a80-babf-fd45f55946a5)
 
-
 ## 🧠 About Me
 
 ```python
 adarsh = {
     "role"       : "Data Science & ML Engineer",
-    "education"  : "B.Tech CS (AI) @ KLE Technological University '27",
+    "education": "B.E. Computer Science (AI) @ KLE Technological University '27",
     "experience" : "Project Intern @ Samsung R&D Institute India",
     "research"   : "Published @ ICETCI 2026 — Stress Prediction using Wearables",
     "focus"      : ["NLP", "LLMs", "ML Pipelines", "Healthcare AI", "Time-Series"],
-    "stack"      : ["Python", "DistilBERT", "CodeLlama", "FastAPI", "React", "MongoDB"],
-    "currently"  : "Building NL2SQL pipeline for enterprise databases @ Samsung PRISM",
+    "stack"      : ["Python", "ML Algorithms", "SQL", "Git/GitHub", "Pandas"],
     "contact"    : "adarshvkapse@gmail.com"
 }
 ```
@@ -30,9 +28,9 @@ adarsh = {
 
 ## 🚀 What I'm Up To
 
-- 🔭 **NL2SQL Pipeline** @ Samsung R&D — converting plain English to enterprise SQL using DistilBERT + CodeLlama 7B with QLoRA fine-tuning
-- 🌱 Deepening expertise in **LLM fine-tuning**, **time-series forecasting**, and **MLOps**
-- 📄 Exploring **Healthcare AI** and **wearable biosensor** ML applications
+- 🛠️ Building **interactive AI applications** powered by **LLMs**, **RAG**, and modern ML workflows
+- 🌱 Exploring **LLM fine-tuning**, and **MLOps** for production-ready systems
+- 🧠 Applying machine learning to healthcare, NLP, and real-world data
 - 🎯 Open to **Data Science**, **ML Engineering**, and **AI Research** opportunities
 
 ---
@@ -80,12 +78,7 @@ adarsh = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh162005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh162005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
 
 <div align="center">
 
@@ -112,8 +105,8 @@ adarsh = {
 
 *I'm always open to interesting conversations about ML, AI research, and data-driven systems.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adarsh-kapse-9ba325281)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshvkapse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kapse-9ba325281)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=adarshvkpase@gmail.com)
 
 </div>
 
