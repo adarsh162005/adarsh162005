@@ -15,7 +15,7 @@
 ```python
 adarsh = {
     "role"       : "Data Science & ML Engineer",
-    "education": "B.E. Computer Science (AI) @ KLE Technological University '27",
+    "education"  : "B.E. Computer Science (AI) @ KLE Technological University '27",
     "experience" : "Project Intern @ Samsung R&D Institute India",
     "research"   : "Published @ ICETCI 2026 — Stress Prediction using Wearables",
     "focus"      : ["NLP", "LLMs", "ML Pipelines", "Healthcare AI", "Time-Series"],
